@@ -1,0 +1,47 @@
+
+
+.container{
+      border: 2px solid blue;
+      border-color: blue;
+      width: 100%;
+      max-width: 300px;
+      border-radius: 4px;
+      margin: 0 auto 0;     
+  
+
+}
+
+#parar1{
+    margin-left: 90%;
+
+    
+}
+
+
+h3{
+   color: aqua;
+   margin-left: 9%;
+}
+input[type=text], select,label {
+    width: 70% ;
+    padding:2%;
+    border-radius: 2cm;
+    margin-left: 15%;
+    margin-bottom:6%;
+    margin-right: 15%;    
+}
+
+
+
+
+input[type=submit] {
+    width: 60%;
+    background-color:blue;
+    color:white;
+    padding: 3%;
+    border-radius:1cm;
+    margin: 3%;
+    margin-left:15%;
+    margin-right:15%;
+    cursor: pointer;
+}
